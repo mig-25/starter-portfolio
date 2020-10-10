@@ -7,6 +7,6 @@ import Jobs from "../components/Jobs"
 import Projects from "../components/Projects"
 import Blogs from "../components/Blogs"
 export default () => {
-  return <h2>Synve19 page!!!</h2>
+  return <h2>Synve19 page update!!!</h2>
 }
 // ...GatsbyImageSharpFluid
