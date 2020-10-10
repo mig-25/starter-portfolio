@@ -9,7 +9,7 @@ import Blogs from "../components/Blogs"
 export default () => {
   
   return( <Layout>
-  <h2>Synve19 page update!!!</h2>
+  <Hero />
   </Layout>
   )
 }
